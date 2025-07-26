@@ -57,9 +57,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-Pachipulusu-V-S-R&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Pachipulusu-V-S-R&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-Pachipulusu-V-S-R&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" alt="Neeraj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Pachipulusu-V-S-R&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" alt="Neeraj's Top Languages" />
 </p>
