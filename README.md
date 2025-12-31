@@ -11,8 +11,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/neerajpvsr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:neerajpachipulusuvsr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://your-resume-link.pdf"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=google-drive&logoColor=white"></a>
+  <a href="https://youtube.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://.pdf"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=google-drive&logoColor=white"></a>
 </p>
 
 ---
